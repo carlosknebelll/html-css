@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/*
+  em html id = em css é #
+  em html class = css é .*/
+body{
+    background-color: #6cbe7f;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1{
+    color: rgb(11, 160, 11) ;
+}
+h1#principal{
+    text-align: center;
+    color: #83EE9C;
+    background-color: #1B6B2E;
+    
+}
+h2{
+    color: rgb( 51, 109, 71);
+}
+
